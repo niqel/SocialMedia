@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PgOvua/b9HZIaMC4iS4Z/LY/w/B4xa/P1NqEt6uO0L0qzZxedUkRX8o7mDbQAGq99ROfcItciWsfEcxMViUgnA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niqel\\source\\repos\\SocialMedia\\SocialMedia.Core\\SocialMedia.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\niqel\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\niqel\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
